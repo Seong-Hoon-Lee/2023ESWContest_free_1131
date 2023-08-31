@@ -1,0 +1,8 @@
+prefix=/home/jetson/watertank/install
+
+Name: communication
+Description: Description of communication
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lcommunication
+Requires: roscpp rospy std_msgs

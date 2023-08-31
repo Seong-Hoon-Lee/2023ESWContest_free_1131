@@ -1,0 +1,2 @@
+communication
+-DCATKIN_DEVEL_PREFIX=/home/jetson/watertank/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/watertank/install -G Unix Makefiles

@@ -1,0 +1,25 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/jetson/realsenseSDK/librealsense-2.50.0/build/wrappers/python/",
+        "/usr/lib/python3.8"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/jetson/realsenseSDK/librealsense-2.50.0/build/wrappers/python/",
+        "/usr/lib/python3.8"
+    ],
+    "files.associations": {
+        "string": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "system_error": "cpp"
+    }
+}
